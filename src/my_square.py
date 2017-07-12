@@ -1,6 +1,6 @@
-def my_square(x):
+def my_square(y):
   """This function calculates the square value. Hello.
   """
-  return (x ** 2)
+  return (y ** 2)
 
-print(my_square(4))
+print(my_square(9))
